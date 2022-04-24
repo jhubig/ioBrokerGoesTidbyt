@@ -1,6 +1,3 @@
-# ioBrokerGoesTidbyt
- A Tidbyt pixel app which displays data from ioBroker
-
  [![GitHub release](https://img.shields.io/github/release/jhubig/ioBrokerGoesTidbyt/all.svg?maxAge=1)](https://GitHub.com/jhubig/ioBrokerGoesTidbyt/releases/)
  [![GitHub tag](https://img.shields.io/github/tag/jhubig/ioBrokerGoesTidbyt.svg)](https://GitHub.com/jhubig/ioBrokerGoesTidbyt/tags/)
  [![GitHub license](https://img.shields.io/github/license/jhubig/ioBrokerGoesTidbyt.svg)](https://github.com/jhubig/ioBrokerGoesTidbyt/blob/master/LICENSE)
@@ -14,9 +11,7 @@
  # ioBrokerGoesTidbyt
   A Tidbyt pixel app which displays data from ioBroker
 
- ![AVM_FRITZ_Labor_FRITZBox_7490-min.jpg](img/AVM_FRITZ_Labor_FRITZBox_7490-min.jpg?raw=true "AVM_FRITZ_Labor_FRITZBox_7490-min.jpg")
-
- (Image credit: https://avm.de/presse/pressefotos/?q=7490)
+ ![ioBroker_Tidbyt.jpeg](img/ioBroker_Tidbyt.jpeg?raw=true "ioBroker_Tidbyt.jpeg")
 
  ## Introduction
 
