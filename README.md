@@ -32,7 +32,8 @@ This pixlet will enable to display data from your ioBroker on your Tidbyt device
     * * * * * sleep  0 ; <PATH_TO_YOUR_FILES>/pushToTidbyt.sh >/dev/null 2>&1
     * * * * * sleep 15 ; <PATH_TO_YOUR_FILES>/pushToTidbyt.sh >/dev/null 2>&1
     * * * * * sleep 30 ; <PATH_TO_YOUR_FILES>/pushToTidbyt.sh >/dev/null 2>&1
-   * * * * * sleep 45 ; <PATH_TO_YOUR_FILES>/pushToTidbyt.sh >/dev/null 2>&1```
+   * * * * * sleep 45 ; <PATH_TO_YOUR_FILES>/pushToTidbyt.sh >/dev/null 2>&1
+```
 
 6. Done :smile:
 
